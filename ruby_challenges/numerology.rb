@@ -57,7 +57,7 @@ def get_message(birth_path_num)
 end
 
 # 5. get the correct message using the above method and assign to a variable
-message = get_message(birth_path_num)
+message = get_message(birth_path_num) 
 
 # 6. display the number and message to the user
 puts message
